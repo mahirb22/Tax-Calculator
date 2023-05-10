@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683746018962" clover="3.2.0">
+  <project timestamp="1683746018963" name="All files">
+    <metrics statements="80" coveredstatements="76" conditionals="40" coveredconditionals="37" methods="19" coveredmethods="19" elements="139" coveredelements="132" complexity="0" loc="80" ncloc="80" packages="2" files="7" classes="7"/>
+    <package name="components">
+      <metrics statements="39" coveredstatements="39" conditionals="24" coveredconditionals="24" methods="10" coveredmethods="10"/>
+      <file name="TaxBand.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\components\TaxBand.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+      </file>
+      <file name="TaxCalculator.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\components\TaxCalculator.tsx">
+        <metrics statements="22" coveredstatements="22" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="23" type="stmt"/>
+        <line num="10" count="23" type="stmt"/>
+        <line num="11" count="23" type="stmt"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="17" count="23" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="19" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="30" count="23" type="stmt"/>
+        <line num="31" count="7" type="stmt"/>
+        <line num="32" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="33" count="6" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="23" type="stmt"/>
+        <line num="42" count="23" type="stmt"/>
+      </file>
+      <file name="TaxContent.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\components\TaxContent.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="24" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="23" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="33" count="19" type="cond" truecount="5" falsecount="0"/>
+        <line num="34" count="16" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="55" count="6" type="stmt"/>
+      </file>
+      <file name="TaxForm.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\components\TaxForm.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="27" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+      </file>
+      <file name="TaxResult.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\components\TaxResult.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="41" coveredstatements="37" conditionals="16" coveredconditionals="13" methods="9" coveredmethods="9"/>
+      <file name="useCalculate.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\hooks\useCalculate.tsx">
+        <metrics statements="16" coveredstatements="15" conditionals="8" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="30" type="stmt"/>
+        <line num="8" count="30" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="23" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="18" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="26" type="stmt"/>
+        <line num="32" count="26" type="stmt"/>
+        <line num="36" count="7" type="stmt"/>
+        <line num="37" count="26" type="stmt"/>
+        <line num="42" count="7" type="stmt"/>
+        <line num="44" count="7" type="stmt"/>
+      </file>
+      <file name="useFetch.tsx" path="F:\Mahir\Git\PlusGrade\tax-calculator\src\hooks\useFetch.tsx">
+        <metrics statements="25" coveredstatements="22" conditionals="8" coveredconditionals="6" methods="4" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="11" type="stmt"/>
+        <line num="14" count="11" type="stmt"/>
+        <line num="15" count="11" type="stmt"/>
+        <line num="16" count="11" type="stmt"/>
+        <line num="18" count="11" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="25" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="35" count="6" type="cond" truecount="3" falsecount="1"/>
+        <line num="37" count="6" type="stmt"/>
+        <line num="39" count="6" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="7" type="stmt"/>
+        <line num="53" count="11" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
